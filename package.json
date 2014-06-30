@@ -1,0 +1,9 @@
+{
+	"name": "readme-api-example",
+	"main": "server.js",
+	"dependencies": {
+		"express": "~4.0.0",
+		"flat-file-db": "~0.1.3",
+		"body-parser": "~1.0.1"
+	}
+}
